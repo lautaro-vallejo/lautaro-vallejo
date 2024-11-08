@@ -10,7 +10,8 @@ development, eager to learn and grow. For now, I have a foundation in some langu
   - C
   - C#
 - Outside tech, 📖 I love to listen to music 🎵, learn new things 📖, talk with my friends 🗣️ and meet new people 🌍 .
-- 📫 Reach out to me at: <a href="mailto:laautivalle@gmail.com">gmail</a>
+- 📫 Reach out to me at: [lautivalle@gmail.com](mailto:laautivalle@gmail.com)
+
 
   🎯My goal is to deepen my skills in C# and improve my use of Git and GitHub. As I progress, I aim to learn more languages and explore new technologies
 
