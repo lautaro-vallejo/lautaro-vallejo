@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Lautaro Vallejo </b><img src="https://giphy.com/gifs/hailee-steinfeld-RKA9WE5HGkLi8" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif"/>
+<img align="right" width=300px alt="Unicorn" src="https://giphy.com/gifs/hailee-steinfeld-RKA9WE5HGkLi8"/>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
