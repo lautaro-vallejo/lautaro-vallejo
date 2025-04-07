@@ -9,6 +9,7 @@ development, eager to learn and grow. For now, I have a foundation in some langu
 - 🌱 I’m currently learning ...
   - C
   - C#
+  - Java
 - Outside tech, 📖 I love to listen to music 🎵, learn new things 📖, talk with my friends 🗣️ and meet new people 🌍 .
 - 📫 Reach out to me at: [lautivalle@gmail.com](mailto:laautivalle@gmail.com)
 
