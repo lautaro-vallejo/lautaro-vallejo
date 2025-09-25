@@ -4,7 +4,6 @@
 I'm Lautaro, a student for programming. I'm currently diving into the world of 
 development, eager to learn and grow. For now, I have a foundation in some languages and tools, but I'm always motivated to keep improving and expanding my skills every day.
 - 🌱 I’m currently learning ...
-  - C
   - C#
   - Java
 - 📫 Reach out to me at: [lautivalle@gmail.com](mailto:laautivalle@gmail.com)
@@ -14,7 +13,6 @@ development, eager to learn and grow. For now, I have a foundation in some langu
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </span>
 
 <h4> Other Tools and Technologies </h4>
