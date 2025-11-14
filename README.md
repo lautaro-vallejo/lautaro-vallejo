@@ -32,8 +32,8 @@ but I'm always motivated to keep improving and expanding my skills every day.
     <p>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,java,mysql,javascript,typescript,bootstrap,angular,html,css" />
-    <img src="https://skillicons.dev/icons?i=vscodegithub,figma,git,"/><br>
+    <img src="https://skillicons.dev/icons?i=cs,php,java,mysql,javascript,typescript,bootstrap,angular,html,css," />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github"/><br>
 </div>
       
 
