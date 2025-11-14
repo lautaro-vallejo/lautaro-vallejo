@@ -1,28 +1,50 @@
-<h1 align="center"><b>Hi , I'm Lautaro Vallejo </b><img src="https://giphy.com/gifs/hailee-steinfeld-RKA9WE5HGkLi8" width="35"></h1>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<h1 align="center" title="...and I'm happy to see you here :)">Hii! I'm Lautaro ˎˊ˗</h1>
 
-I'm Lautaro, a student for programming. I'm currently diving into the world of 
-development, eager to learn and grow. For now, I have a foundation in some languages and tools, but I'm always motivated to keep improving and expanding my skills every day.
-- 🌱 I’m currently learning ...
-  - C#
-  - Java
-- 📫 Reach out to me at: [lautivalle@gmail.com](mailto:laautivalle@gmail.com)
+<details>
+   <summary><b>✰ There’s more down here</b></summary>
+  
+   <br>
+   
+<details>
+  <summary><b>👤 About</b></summary>
+    <p>
+      <img align="right" width="250" src="https://imgs.search.brave.com/gTYudNvYLCWxDMz74X_KiPNMDhRVSwyov9uBPktvHEg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/enZpZjFsMjB1Y29j/MS5qcGVnP3dpZHRo/PTY0MCZjcm9wPXNt/YXJ0JmF1dG89d2Vi/cCZzPTY0ZTI2Yzg2/MDZlNDk1ZDM1ZjNj/ODBkMTJjYTM0ZWJi/ZDQ1Y2ExZjE" alt="lautaro" />
+      
+<blockquote>
 
-## My Skills Include
+I'm Lautaro, a student for programming. 
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-</span>
+I'm currently diving into the world of development, eager to learn and grow.
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
+For now, I have a foundation in some languages and tools, 
 
+but I'm always motivated to keep improving and expanding my skills every day.
 
-🙌Thank you for visiting my profile! Any advice or suggestions are always welcome!
+</blockquote>
+    
+----
+  
+  </p>
+</details>
 
- ##
+<details>
+  <summary><b>🛠️ Tech Stack</b></summary>
+    <p>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cs,java,mysql,javascript,typescript,bootstrap,angular,html,css" />
+    <img src="https://skillicons.dev/icons?i=vscodegithub,figma,git,"/><br>
+</div>
+      
 
+----      
+
+  </p>
+</details>
+<p align="center">
+<a href="https://gitstar-ranking.com/Fovvy" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+</p>
+
+</details>
+
+<p align="center"><a href="https:parastus.me</sub></sup></a></p>
