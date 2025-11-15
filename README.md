@@ -42,7 +42,7 @@ but I'm always motivated to keep improving and expanding my skills every day.
   </p>
 </details>
 <p align="center">
-<a href="https://gitstar-ranking.com/Fovvy" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+<a><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 </p>
 
 </details>
